@@ -23,3 +23,13 @@
 >기술 스택:
 >Java 8 / Spring / 
 >MyBatis / MySQL / 
+
+
+### 1.[Farmiary](https://github.com/CommediaDev/Farmiary01.git)
+>농부들의 다이어리와 블로그 마켓
+>개발 기간: 2022.11. 1. ~ 11. 6.
+>팀프로젝트
+>
+>기술 스택:
+>Java 11 / SpringBoot 2.7.1 / 
+>MySQL / 
