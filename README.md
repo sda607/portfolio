@@ -25,6 +25,7 @@
 ## :pushpin: projects
 ### 1.[TomandMay](https://github.com/sda607/sunghoon-hong)
 >스프링으로 배우는 웹 프로젝트
+
 >개발 기간: 2022.09.01 ~ 09.16.
 >
 >기술 스택:
@@ -34,6 +35,7 @@
 
 ### 2.[Farmiary](https://github.com/CommediaDev/Farmiary01.git)
 >농부들의 다이어리와 블로그 마켓
+
 >개발 기간: 2022.11. 1. ~ 11. 6. / 팀프로젝트
 >
 >기술 스택:
